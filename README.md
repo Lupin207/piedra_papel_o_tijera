@@ -110,7 +110,7 @@ Descarga este repositorio o clónalo con el siguiente comando en tu terminal:
 
 
 
-git clone https://github.com/Lupin207/Piedra-papel-o-tijera.git
+git clone https://github.com/Lupin207/piedra_papel_o_tijera.git
 
 
 
